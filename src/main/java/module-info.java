@@ -1,6 +1,7 @@
 module com.tunahan.cinemateer {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
 
     exports com.tunahan.cinemateer.model;

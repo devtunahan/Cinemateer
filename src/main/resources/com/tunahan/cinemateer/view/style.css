@@ -1,0 +1,31 @@
+.search-box {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-radius: 10;
+}
+
+.search-button {
+    -fx-background-color: #323A45;
+    -fx-background-radius: 30;
+}
+
+.right-bar {
+    -fx-background-color: #323A45;
+}
+
+.shadow {
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
+.edit-button {
+    -fx-background-color: #5FAEB6;
+    -fx-background-radius: 30;
+}
+
+.choosen-fruit-card {
+    -fx-background-color: #3F6184;
+    -fx-background-radius: 30;
+}
